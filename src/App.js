@@ -21,7 +21,7 @@ function App() {
         >
           Learn React
         </a>
-        <Button>按钮操作</Button>
+        <Button type="primary">按钮操作</Button>
       </header>
     </div>
   );

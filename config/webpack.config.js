@@ -152,8 +152,8 @@ module.exports = function (webpackEnv) {
             sourceMap: true,
             lessOptions: {
               modifyVars: {
-                'primary-color': '#1DA57A',
-                'link-color': '#1DA57A',
+                'primary-color': '#f9c700',
+                'link-color': '#f9c700',
                 'border-radius-base': '2px',
               },
               javascriptEnabled: true,
